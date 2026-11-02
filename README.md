@@ -26,3 +26,4 @@ Got a Mac or iOS app on sale? [Add your deal](CONTRIBUTING.md) with a pull reque
 ---
 
 Curated by [Daniel Nguyen](https://x.com/daniel_nguyenx), maker of BoltAI, PDF Pals and KTool. This file is generated from `deals/`; edit those files, not the tables above.
+x
