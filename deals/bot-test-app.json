@@ -1,0 +1,11 @@
+{
+  "name": "Bot Test App",
+  "url": "https://ktool.io/",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Throwaway entry to test the review bot.",
+  "discount": "Lifetime $149",
+  "prices": [{ "plan": "Lifetime", "before": 179, "after": 149 }],
+  "ends": "2026-12-01",
+  "maker": "Bot Test"
+}
