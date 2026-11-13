@@ -1,0 +1,20 @@
+{
+  "name": "Check Engine SEO",
+  "url": "https://checkengineseo.com/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "developer",
+  "description": "SEO site audit that runs on your own Mac or PC: 99 checks, ranked into a fix plan with the markup to paste.",
+  "discount": "32% off",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 29.5,
+      "after": 19.99
+    }
+  ],
+  "ends": "2026-12-02",
+  "starts": "2026-11-13",
+  "terms": "No code needed: the Buy button applies the sale; pay once; 30-day refund; free version shows the score and the top problem; sale ends end of 2 December 2026, US Pacific"
+}
