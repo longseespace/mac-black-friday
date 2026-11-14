@@ -1,0 +1,33 @@
+{
+  "name": "BetterStage",
+  "url": "https://betterstage.app/pricing?utm_source=mac-black-friday&utm_campaign=bf2026",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Window and workspace manager for macOS: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher, and Saved Workspaces.",
+  "discount": "20% off lifetime Pro",
+  "code": "BLACKFRIDAY20",
+  "prices": [
+    {
+      "plan": "Lifetime Pro, 1 Mac",
+      "before": 19.99,
+      "after": 15.99
+    },
+    {
+      "plan": "Lifetime Pro, 3 Macs",
+      "before": 39.99,
+      "after": 31.99
+    },
+    {
+      "plan": "Lifetime Pro, 5 Macs",
+      "before": 49.99,
+      "after": 39.99
+    }
+  ],
+  "starts": "2026-11-23",
+  "ends": "2026-11-30",
+  "terms": "BLACKFRIDAY20; entered at checkout; one-time purchase; macOS 14 or later; 2026-11-23 to 2026-11-30",
+  "maker": "Terry",
+  "makerUrl": "https://x.com/terrytz"
+}
