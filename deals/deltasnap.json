@@ -1,0 +1,13 @@
+{
+  "name": "DeltaSnap",
+  "url": "https://scaleninja.com/deltasnap/",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "List, label, hold, mount, diff and restore APFS snapshots on every volume, with a searchable index of their files, from the app, Finder or a CLI.",
+  "discount": "15% off",
+  "code": "BLACKFRIDAY15",
+  "prices": [{ "plan": "Personal license", "before": 39, "after": 33.15 }],
+  "ends": "2026-11-30",
+  "maker": "ScaleNinja",
+  "makerUrl": "https://scaleninja.com"
+}
