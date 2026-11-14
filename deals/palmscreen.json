@@ -1,0 +1,15 @@
+{
+  "name": "palmscreen",
+  "url": "https://www.palmscreen.app/black-friday/",
+  "platforms": ["macOS"],
+  "category": "audio-video",
+  "description": "Mac screen recorder: every click becomes a smooth zoom. Editor with MP4, ProRes, GIF export and screenshot tools.",
+  "discount": "34% off",
+  "code": "BLACKWEEK",
+  "prices": [{ "plan": "License (1 Mac)", "before": 29, "after": 19 }],
+  "terms": "Introductory price, regular $39 afterwards. One-time purchase. Code active from Nov 23. 14-day free trial.",
+  "starts": "2026-11-23",
+  "ends": "2026-11-30",
+  "maker": "palmstudio GmbH",
+  "makerUrl": "https://www.palmscreen.app/"
+}
