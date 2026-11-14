@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:10:18.082Z",
+  "updatedAt": "2026-11-14T11:10:22.438Z",
   "categories": [
     {
       "id": "ai",
@@ -509,6 +509,28 @@
       "ends": "2026-12-02",
       "starts": "2026-11-27",
       "terms": "App Store and Google Play: no code. Desktop-only Pro: BF2026. One-time purchase. Lifetime Pro includes every Deckloud app we add, including Calendar and Mail."
+    },
+    {
+      "id": "deltasnap",
+      "name": "DeltaSnap",
+      "url": "https://scaleninja.com/deltasnap/",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "description": "List, label, hold, mount, diff and restore APFS snapshots on every volume, with a searchable index of their files, from the app, Finder or a CLI.",
+      "discount": "15% off",
+      "code": "BLACKFRIDAY15",
+      "prices": [
+        {
+          "plan": "Personal license",
+          "before": 39,
+          "after": 33.15
+        }
+      ],
+      "ends": "2026-11-30",
+      "maker": "ScaleNinja",
+      "makerUrl": "https://scaleninja.com"
     },
     {
       "id": "device-mcp",
@@ -1133,6 +1155,38 @@
       "ends": "2026-12-01",
       "starts": "2026-11-23",
       "terms": "BLACKFRIDAY26; one-time purchase, license covers 3 Macs; 2026-11-23 to 2026-12-01 (UTC)"
+    },
+    {
+      "id": "macvisor",
+      "name": "MacVisor",
+      "url": "https://scaleninja.com/macvisor/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "developer",
+      "description": "Run macOS, Windows 11, Linux and FreeBSD VMs on Apple Silicon that keep running with the app closed, with networks, snapshots, backups and a CLI.",
+      "discount": "15% off",
+      "code": "BLACKFRIDAY15",
+      "prices": [
+        {
+          "plan": "Pro Individual (1 Mac)",
+          "before": 59,
+          "after": 50.15
+        },
+        {
+          "plan": "Pro Duo (2 Macs)",
+          "before": 79,
+          "after": 67.15
+        },
+        {
+          "plan": "Business (per Mac, first year)",
+          "before": 79,
+          "after": 67.15
+        }
+      ],
+      "ends": "2026-11-30",
+      "maker": "ScaleNinja",
+      "makerUrl": "https://scaleninja.com"
     },
     {
       "id": "mailflare",
