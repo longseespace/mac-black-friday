@@ -174,6 +174,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | App | Platforms | What it does | Deal |
 | --- | --- | --- | --- |
 | [Habit Pixel](https://habitpixel.com/get) | iOS | Offline habit tracker with pixel check-ins, streak goals, reminders, and widgets for iPhone and Android. | **33% off** · Lifetime ~~$29.99~~ $19.99 · Automatically applied in the app; local prices vary; 2026-11-19 to 2026-12-02 · until Dec 2 |
+| [Steps & Beasts](https://stepsandbeasts.app/black-friday) | iOS | Turn your daily walk into a creature-collecting adventure: hatch eggs, grow your beasts and hit your step goal. No subscription. | **33% off Pro Lifetime** · Pro Lifetime ~~$39.99~~ $26.99 · until Nov 30 |
 
 ### Finance
 

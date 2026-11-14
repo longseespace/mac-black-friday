@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:10:54.078Z",
+  "updatedAt": "2026-11-14T14:10:03.011Z",
   "categories": [
     {
       "id": "ai",
@@ -2007,6 +2007,25 @@
       "ends": "2026-12-01",
       "starts": "2026-11-27",
       "terms": "Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time)"
+    },
+    {
+      "id": "steps-and-beasts",
+      "name": "Steps & Beasts",
+      "url": "https://stepsandbeasts.app/black-friday",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "health",
+      "description": "Turn your daily walk into a creature-collecting adventure: hatch eggs, grow your beasts and hit your step goal. No subscription.",
+      "discount": "33% off Pro Lifetime",
+      "prices": [
+        {
+          "plan": "Pro Lifetime",
+          "before": 39.99,
+          "after": 26.99
+        }
+      ],
+      "ends": "2026-11-30"
     },
     {
       "id": "submanager",
