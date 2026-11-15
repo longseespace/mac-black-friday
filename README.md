@@ -64,6 +64,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [Spacepal](https://getspacepal.com/black-friday/) | macOS | Names and live previews for Mac desktops (Spaces), with window search and instant switching. | **20% off ($9.99 → $7.99)** · License ~~$9.99~~ $7.99 · Automatically applied at checkout; one-time license for up to 3 Macs; 2026-11-27 to 2026-12-01 (Pacific time) · until Dec 1 |
 | [SupaSidebar](https://supasidebar.com) | macOS | Arc-style sidebar for browser tabs, bookmarks, and Finder files, with fuzzy search. | **50% off Lifetime** · code **SIDEBARBF50** · SIDEBARBF50; one-time purchase; 2026-11-09 to 2026-12-07 · until Dec 7 |
 | [Wick](https://appsbymo.app/wick/) | macOS | Every deadline as a burning wick on your Mac: tasks, loans, subscriptions and renewals counting down where you can see them. | **50% off** · code **BLACKFRIDAY** · License ~~$15.99~~ $7.99 · with code BLACKFRIDAY at appsbymo.app (regular $14.99); Mac App Store $15.99 $7.99, no code. Nov 9 - Dec 1, 2026 · until Dec 1 |
+| [Quick Capture - Markdown](https://apps.apple.com/in/app/instant-markdown-notes/id6757983460?mt=12) | macOS | Capture quickly in markdown and plain note files without opening them | **40% off** · code **Auto-applied** · $4.99 on Lifetime plan on AppStore · until Nov 30 |
 
 ### Developer Tools
 
