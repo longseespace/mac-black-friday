@@ -1,0 +1,13 @@
+{
+  "name": "BibiGPT",
+  "url": "https://bibigpt.co/en/shop?ref=BLACKFRIDAY",
+  "platforms": ["macOS"],
+  "category": "ai",
+  "description": "AI summaries, transcripts and Q&A for YouTube videos, podcasts and your own audio and video files, in a native Mac app.",
+  "discount": "50% off",
+  "code": "BLACKFRIDAY",
+  "prices": [{ "plan": "Plus yearly", "before": 142.56, "after": 71.28 }, { "plan": "Pro yearly", "before": 250.56, "after": 125.28 }],
+  "ends": "2026-12-01",
+  "terms": "First payment only. Code applied automatically from the link. Mac app: bibigpt.co/apps/desktop",
+  "makerUrl": "https://bibigpt.co"
+}
