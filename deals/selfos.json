@@ -1,0 +1,29 @@
+{
+  "name": "SelfOS",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6756428834&code=BLACKFRIDAY2026",
+  "platforms": [
+    "iOS",
+    "iPadOS",
+    "watchOS"
+  ],
+  "category": "health",
+  "discount": "Up to 49% off",
+  "description": "Self-care and productivity in one calm place: tasks, habits, water and sleep, with a bonsai that grows every day you show up. Apple Watch and widgets.",
+  "code": "BLACKFRIDAY2026",
+  "prices": [
+    {
+      "plan": "Yearly (first year)",
+      "before": 34.99,
+      "after": 17.99
+    },
+    {
+      "plan": "Lifetime",
+      "before": 89.99,
+      "after": 59.99
+    }
+  ],
+  "starts": "2026-11-27",
+  "ends": "2026-11-30",
+  "terms": "Lifetime price applies automatically in the App Store. Yearly price with the code for new and returning subscribers, first year only. Local prices vary.",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/93/9f/ff939fcc-57c6-cbc2-fb3a-dbfa3708297d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
