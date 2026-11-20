@@ -1,0 +1,12 @@
+{
+  "name": "EvidenceLens",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6762130726&code=BW2026",
+  "platforms": ["iOS", "iPadOS"],
+  "category": "reading",
+  "discount": "40% off Plus Lifetime",
+  "description": "Summarize YouTube videos, articles, and PDFs. Check individual claims against published research and open the cited papers.",
+  "code": "BW2026",
+  "prices": [{"plan": "Plus Lifetime", "before": 44.99, "after": 26.99}],
+  "ends": "2026-12-01",
+  "terms": "One-time purchase. Prices shown are for the US App Store. Ends December 1, 2026 at 09:00 CET (08:00 UTC)."
+}
