@@ -1,0 +1,12 @@
+{
+  "name": "Mic to Speaker: Microphone",
+  "url": "https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098",
+  "platforms": ["iOS"],
+  "category": "audio-video",
+  "description": "Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements.",
+  "discount": "40% off Lifetime",
+  "prices": [{ "plan": "Lifetime", "before": 49.99, "after": 29.99 }],
+  "terms": "Applied automatically, no code needed.",
+  "starts": "2026-11-21",
+  "ends": "2026-11-30"
+}
