@@ -1,0 +1,12 @@
+{
+  "name": "Earmix",
+  "url": "https://earmix.app/",
+  "platforms": ["macOS"],
+  "category": "launch",
+  "description": "Volume mixer for the Mac menu bar: per-app and per-tab volume, an output per app, and EQ.",
+  "discount": "Launch price $6.50",
+  "code": "BLACKFRIDAY50",
+  "prices": [{ "plan": "Licence", "before": 12.99, "after": 6.5 }],
+  "terms": "50% off with code BLACKFRIDAY50 at checkout through 1 Dec. Regular price $12.99. Released 3 Nov 2026. Pay once, free trial.",
+  "ends": "2026-12-01"
+}
