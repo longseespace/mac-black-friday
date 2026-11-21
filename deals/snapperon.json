@@ -1,0 +1,33 @@
+{
+  "name": "Snapperon",
+  "url": "https://snapperon.com/#pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "discount": "50% off all Pro plans",
+  "description": "Annotate screenshots, redact private details, and extract text on your Mac. Copy the finished image straight into a message or document.",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "Monthly (first 12 months)",
+      "before": 2,
+      "after": 1
+    },
+    {
+      "plan": "Annual (first year)",
+      "before": 19.99,
+      "after": 10
+    },
+    {
+      "plan": "Lifetime",
+      "before": 38.99,
+      "after": 19.5
+    }
+  ],
+  "terms": "Web only. Monthly renews at $2/month after 12 months. Annual renews at $19.99/year after one year. Lifetime is one payment. Ends 11:59 p.m. Toronto time.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-01",
+  "maker": "Snapperon Team",
+  "makerUrl": "https://snapperon.com"
+}
