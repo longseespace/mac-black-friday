@@ -1,0 +1,21 @@
+{
+  "name": "Toplify",
+  "url": "https://toplify.app/",
+  "platforms": [
+    "macOS",
+    "iOS"
+  ],
+  "category": "developer",
+  "description": "Track App Store chart positions across 175 countries and get alerts when your apps move in the rankings.",
+  "discount": "45% off Lifetime",
+  "code": "BLKFR2026",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 89.99,
+      "after": 49.99
+    }
+  ],
+  "starts": "2026-11-15",
+  "ends": "2026-12-01"
+}

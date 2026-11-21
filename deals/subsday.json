@@ -1,0 +1,27 @@
+{
+  "name": "SubsDay",
+  "url": "https://subsday.appps.od.ua/",
+  "platforms": [
+    "macOS",
+    "iOS"
+  ],
+  "category": "finance",
+  "description": "Track subscriptions and upcoming charges in a calendar, with imports from the App Store, Notion, and Google Sheets.",
+  "discount": "40% off Lifetime",
+  "code": "BLKFR2026",
+  "prices": [
+    {
+      "plan": "Single Lifetime",
+      "before": 19.99,
+      "after": 11.99
+    },
+    {
+      "plan": "Family Lifetime",
+      "before": 26.99,
+      "after": 15.99
+    }
+  ],
+  "terms": "Use BLKFR2026 for Single or BLKFR2026FAMILY for Family. The website links to both App Store offers.",
+  "starts": "2026-11-15",
+  "ends": "2026-12-01"
+}
