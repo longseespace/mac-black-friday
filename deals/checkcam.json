@@ -1,0 +1,20 @@
+{
+  "name": "CheckCam",
+  "url": "https://checkcam.zorrinapps.com/#black-friday",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "utilities",
+  "discount": "Lifetime $7.49",
+  "description": "Snap quick photo reminders without cluttering your camera roll. CheckCam auto-deletes temporary shots unless you pin them.",
+  "code": "BFCM26",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 14.99,
+      "after": 7.49
+    }
+  ],
+  "ends": "2026-12-01",
+  "terms": "Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary."
+}
