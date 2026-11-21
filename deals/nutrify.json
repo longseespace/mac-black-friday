@@ -1,0 +1,17 @@
+{
+  "name": "Nutrify",
+  "url": "https://nutrifytracker.com/api/go?store=auto&campaign=holiday_sale&source=macblackfriday&medium=deal_list",
+  "platforms": ["iOS"],
+  "category": "health",
+  "description": "AI calorie tracker: snap a photo of any meal for calories, protein, carbs and fat, with goals that adjust to your progress.",
+  "discount": "60% off the first year",
+  "prices": [
+    { "plan": "Yearly (first year)", "before": 49.99, "after": 19.99 },
+    { "plan": "Lifetime", "before": 99, "after": 79 }
+  ],
+  "terms": "Applied automatically in the app for new subscribers, no code needed. US prices; local prices vary. The in-app sale runs until Dec 30.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-15",
+  "maker": "Tappect",
+  "makerUrl": "https://www.tappect.com"
+}

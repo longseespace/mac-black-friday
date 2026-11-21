@@ -1,0 +1,17 @@
+{
+  "name": "Nomu",
+  "url": "https://www.tappect.com/get/nomu",
+  "platforms": ["iOS", "watchOS"],
+  "category": "health",
+  "description": "Intermittent fasting timer for iPhone and Apple Watch: 16:8, 18:6, OMAD and extended fasts. From the team behind Nutrify, the best AI calorie tracker.",
+  "discount": "57% off the first year",
+  "prices": [
+    { "plan": "Yearly (first year)", "before": 29.99, "after": 12.99 },
+    { "plan": "Lifetime", "before": 49.99, "after": 29.99 }
+  ],
+  "terms": "Applied automatically in the app for new subscribers, no code needed. US prices; local prices vary. The in-app sale runs until Dec 30.",
+  "starts": "2026-11-20",
+  "ends": "2026-12-15",
+  "maker": "Tappect",
+  "makerUrl": "https://www.tappect.com"
+}

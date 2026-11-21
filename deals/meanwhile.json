@@ -1,0 +1,16 @@
+{
+  "name": "Meanwhile",
+  "url": "https://www.tappect.com/get/meanwhile",
+  "platforms": ["iOS"],
+  "category": "launch",
+  "description": "Couple and best friend widget: share a photo each hour and it lands on their home screen. Photos, videos and voice memos, no feed, no ads.",
+  "discount": "Launch price from $7.99",
+  "prices": [
+    { "plan": "Pro Yearly (first year)", "before": 49.99, "after": 7.99 }
+  ],
+  "terms": "Early Supporter offer for new subscribers while spots last: tap \"Want to be an early supporter?\" on the plans screen. No code. US prices; local prices vary.",
+  "ends": "2026-12-15",
+  "maker": "Tappect",
+  "makerUrl": "https://www.tappect.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/47/b0/c547b064-114a-9608-b66c-0181f0b89bbd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+}
