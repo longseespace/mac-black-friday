@@ -1,0 +1,15 @@
+{
+  "name": "Toffee",
+  "url": "https://www.toffeefinance.com/",
+  "platforms": ["iOS"],
+  "category": "finance",
+  "description": "Debt payoff planner: add your debts, pick snowball or avalanche, and see the exact date you'll be debt free.",
+  "discount": "50% off Lifetime",
+  "prices": [{ "plan": "Pro Lifetime", "before": 59.99, "after": 29.99 }],
+  "terms": "One-time purchase, no subscription. Discount applied automatically in the app, no code needed.",
+  "starts": "2026-11-19",
+  "ends": "2026-12-01",
+  "maker": "Toffee Finance Inc.",
+  "makerUrl": "https://www.toffeefinance.com",
+  "icon": "https://www.toffeefinance.com/apple-icon.png"
+}
