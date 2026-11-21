@@ -1,0 +1,21 @@
+{
+  "name": "Lasso",
+  "url": "https://www.trylasso.online/?utm_source=boltai&utm_medium=deals&utm_campaign=bf2026",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "discount": "50% off",
+  "description": "Draw on your Mac screen: arrows, circles and highlights over any app while you present, teach or share your screen.",
+  "code": "LASSOBF50",
+  "prices": [
+    {
+      "plan": "One-time purchase",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "starts": "2026-11-21",
+  "ends": "2026-12-15",
+  "terms": "One-time purchase, no subscription. macOS 14+, Apple silicon and Intel."
+}

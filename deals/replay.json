@@ -1,0 +1,21 @@
+{
+  "name": "Replay",
+  "url": "https://tryreplay.online/?utm_source=boltai&utm_medium=deals&utm_campaign=bf2026",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "discount": "50% off",
+  "description": "Bot-free call recorder for Mac: records Zoom, Meet, Teams, Slack, WhatsApp, Telegram and Signal calls on your Mac, no bot joins the call.",
+  "code": "REPLAYBF50",
+  "prices": [
+    {
+      "plan": "One-time purchase",
+      "before": 10,
+      "after": 5
+    }
+  ],
+  "starts": "2026-11-21",
+  "ends": "2026-12-15",
+  "terms": "One-time purchase, no subscription. Requires macOS 26+ on Apple silicon."
+}
