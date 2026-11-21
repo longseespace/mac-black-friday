@@ -1,0 +1,16 @@
+{
+  "name": "Erla",
+  "url": "https://erla.app/black-friday",
+  "platforms": ["iOS", "iPadOS"],
+  "category": "education",
+  "description": "Learn a language by understanding it: listen to and read short stories, watch short videos, then talk with an AI teacher. 22 languages, one app each",
+  "discount": "70% off the first year",
+  "code": "BLACKFRIDAY",
+  "prices": [{ "plan": "PRO annual, first year", "before": 59.99, "after": 18 }],
+  "terms": "7 days free first. New subscribers only; renews at the regular price, cancel anytime. Redeem via erla.app/black-friday",
+  "starts": "2026-11-12",
+  "ends": "2026-11-30",
+  "maker": "Erla",
+  "makerUrl": "https://erla.app",
+  "icon": "https://erla.app/web-app-manifest-512x512.png"
+}
