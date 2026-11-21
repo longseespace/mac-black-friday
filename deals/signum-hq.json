@@ -1,0 +1,28 @@
+{
+  "name": "SIGNUM HQ",
+  "url": "https://apps.apple.com/app/signum-hq-stock-market-intel/id6783130444?pt=129074309&ct=bf_boltai_1122&mt=8",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "finance",
+  "description": "US stock market app: real-time prices, one-line AI explanation of why a stock moved, earnings calendar with expected moves",
+  "discount": "50% off first year",
+  "code": "BLACKFRIDAY50",
+  "prices": [
+    {
+      "plan": "PRO yearly (first year)",
+      "before": 74.99,
+      "after": 37.49
+    },
+    {
+      "plan": "PRO monthly (first 3 months)",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "terms": "Monthly plan: code BFCM50. Redeem in the App Store or via Redeem code in the app. Renews at regular price.",
+  "starts": "2026-11-22",
+  "ends": "2026-12-02",
+  "maker": "SIGNUM HQ, LLC",
+  "makerUrl": "https://www.signumhq.com"
+}
