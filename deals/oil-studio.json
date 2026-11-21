@@ -1,20 +1,24 @@
 {
   "name": "Oil Studio",
-  "url": "https://studio.oiloil.org/en/#price",
+  "url": "https://studio.oiloil.org/en/buy/",
   "platforms": [
     "macOS"
   ],
   "category": "audio-video",
-  "description": "Native macOS screen recorder and transcript video editor with auto zoom on clicks, smooth cursor, on-device Whisper captions, and AI agent CLI.",
-  "discount": "20% off ($49 → $39)",
+  "description": "Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, on-device Whisper transcript cutting, and CLI + Agent Skill.",
+  "discount": "20% off ($39 → $31.20)",
+  "code": "BFCM2026",
   "prices": [
     {
-      "plan": "License",
-      "before": 49,
-      "after": 39
+      "plan": "License (2 Macs)",
+      "before": 39,
+      "after": 31.2
     }
   ],
-  "ends": "2026-12-01",
-  "starts": "2026-11-07",
-  "terms": "Automatically applied; one-time purchase for 2 Macs, free trial; 2026-11-07 to 2026-12-01"
+  "starts": "2026-11-20",
+  "ends": "2026-12-02",
+  "terms": "Extra 20% off $39 launch price ($31.20; regular $49) with code BFCM2026. One-time purchase for 2 Macs, no subscription. Nov 20 – Dec 2, 2026.",
+  "maker": "Oil Oil",
+  "makerUrl": "https://studio.oiloil.org/en/",
+  "icon": "https://studio.oiloil.org/icon-512.png"
 }
