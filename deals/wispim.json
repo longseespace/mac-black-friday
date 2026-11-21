@@ -1,0 +1,13 @@
+{
+  "name": "Wispim: Voice Teleprompter",
+  "url": "https://wispim.com/black-friday",
+  "platforms": ["macOS", "iOS", "iPadOS"],
+  "category": "audio-video",
+  "description": "Teleprompter that follows your voice: the script scrolls as you speak and waits while you pause. It can float over your camera app.",
+  "discount": "50% off Lifetime Pro",
+  "prices": [{ "plan": "Lifetime Pro", "before": 199.99, "after": 99.99 }],
+  "terms": "One-time purchase in the App Store, no code needed. Back to $199.99 on Dec 1.",
+  "starts": "2026-11-27",
+  "ends": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/4c/52/474c52de-0f64-3d31-dfcd-061df44c3127/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
