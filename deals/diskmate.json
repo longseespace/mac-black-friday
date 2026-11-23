@@ -1,0 +1,12 @@
+{
+  "name": "DiskMate",
+  "url": "https://diskmate.app",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "discount": "50% off",
+  "description": "Native macOS disk space analyzer — see what is eating your disk and clean it up safely.",
+  "prices": [{ "plan": "Lifetime", "before": 10, "after": 5 }],
+  "ends": "2026-12-02",
+  "maker": "Surendra Pandar",
+  "makerUrl": "https://surendrapandar.com"
+}
