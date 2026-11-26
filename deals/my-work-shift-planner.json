@@ -1,0 +1,29 @@
+{
+  "name": "My Work Shift Planner",
+  "url": "https://apps.apple.com/us/app/id6769349635",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "description": "Shift calendar and pay tracker for any shift worker: plan day, night and rotating shifts, track hours and estimate pay across workplaces.",
+  "discount": "50% off",
+  "prices": [
+    {
+      "plan": "Yearly",
+      "before": 24.99,
+      "after": 12.49
+    },
+    {
+      "plan": "Monthly",
+      "before": 4.99,
+      "after": 2.49
+    }
+  ],
+  "terms": "No code: the BLACK WEEK price shows in the app. The lower price stays while subscribed. 7-day free trial. US prices; local prices vary.",
+  "starts": "2026-11-22",
+  "ends": "2026-11-30",
+  "maker": "Paul Crapatureanu",
+  "makerUrl": "https://paulcrp.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/db/3e/e2db3e0a-cd8a-de33-de75-8225a2a4aa97/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg"
+}
