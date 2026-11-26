@@ -1,0 +1,23 @@
+{
+  "name": "Clearpane",
+  "url": "https://getclearpane.app/?utm_source=boltai-bf&utm_campaign=bf2026#pricing",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "Activity Monitor in plain English: what's slowing your Mac in one sentence, every process explained, and whether it's safe to quit. All on your Mac.",
+  "discount": "Launch price $9",
+  "prices": [
+    {
+      "plan": "One-time, 2 Macs",
+      "before": 19,
+      "after": 9
+    }
+  ],
+  "terms": "No code, applied at checkout. One payment: 2 Macs, every update. Free check-up and a 7-day full trial first. $19 from Dec 2. macOS 14+.",
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "maker": "Telman Gadimov",
+  "makerUrl": "https://getclearpane.app",
+  "icon": "https://getclearpane.app/img/clearpane-512.png"
+}
