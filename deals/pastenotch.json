@@ -1,0 +1,11 @@
+{
+  "name": "PasteNotch",
+  "url": "https://pastenotch.com/black-friday",
+  "platforms": ["macOS"],
+  "category": "productivity",
+  "discount": "50% off",
+  "description": "The clipboard manager in your Mac notch. Every clip, searchable, one shortcut away.",
+  "code": "BLACKFRIDAY50",
+  "prices": [{ "plan": "One-time purchase", "before": 4.99, "after": 2.49 }],
+  "ends": "2026-12-01"
+}
