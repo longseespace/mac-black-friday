@@ -1,0 +1,24 @@
+{
+  "name": "Astrolinks",
+  "url": "https://astrolinks.org/black-friday/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "productivity",
+  "description": "Automatic time tracking by client: writes your end-of-day client reports and invoices from a private log on your Mac. No screenshots.",
+  "discount": "60% off first year",
+  "code": "BF60YEAR",
+  "prices": [
+    {
+      "plan": "Pro Yearly, first year",
+      "before": 90,
+      "after": 36
+    }
+  ],
+  "terms": "Pro Yearly only, code applied automatically at checkout, renews at $90/year. Also on Windows. Free plan and 7-day Pro trial, no card.",
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "maker": "Astrolinks",
+  "makerUrl": "https://astrolinks.org",
+  "icon": "https://astrolinks.org/assets/icon-512.png"
+}
