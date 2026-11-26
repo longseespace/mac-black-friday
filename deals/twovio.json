@@ -1,0 +1,13 @@
+{
+  "name": "Twovio: Dual Camera Video",
+  "url": "https://apps.apple.com/us/app/twovio-dual-camera-video/id6834278419",
+  "platforms": ["iOS"],
+  "category": "launch",
+  "discount": "Launch price $5.99",
+  "description": "Record in 16:9 and 9:16 in one take on iPhone, capture front and rear views on compatible devices, and use a teleprompter and automatic captions.",
+  "prices": [{ "plan": "Lifetime Pro", "after": 5.99 }],
+  "terms": "US App Store only. One-time in-app purchase. No code needed. Open Settings → Unlock Lifetime Pro.",
+  "starts": "2026-11-26",
+  "ends": "2026-11-30",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/87/1a/a3871aa5-c807-daa0-3dea-03e9b40bad81/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+}
