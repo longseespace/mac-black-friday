@@ -1,0 +1,14 @@
+{
+  "name": "Switchy",
+  "url": "https://getswitchy.app/black-friday",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Menu bar app with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons), plus deploy status, 2FA codes and Claude/Codex usage limits.",
+  "discount": "50% off",
+  "code": "BLACKFRIDAY50",
+  "prices": [{ "plan": "One-time", "before": 4.99, "after": 2.49 }],
+  "terms": "One-time purchase, no subscription, up to 3 Macs, future updates included. Code pre-filled by the Buy button. Free 7-day trial, macOS 14+.",
+  "starts": "2026-11-23",
+  "ends": "2026-12-01",
+  "icon": "https://getswitchy.app/assets/switchy-icon-512.png"
+}
