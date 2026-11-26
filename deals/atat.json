@@ -1,0 +1,28 @@
+{
+  "name": "AtAt",
+  "url": "https://atatapp.com/black-friday",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "ai",
+  "description": "Call in your own AI anywhere on macOS with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation.",
+  "discount": "47% off Lifetime ($89)",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 169,
+      "after": 89
+    },
+    {
+      "plan": "Yearly (first year)",
+      "before": 59,
+      "after": 39
+    }
+  ],
+  "terms": "No code needed, applied automatically at checkout. Lifetime covers all your Macs and future updates; Yearly renews at $59/yr. 14-day free trial.",
+  "starts": "2026-11-24",
+  "ends": "2026-12-15",
+  "maker": "Xinyao Chen",
+  "makerUrl": "https://atatapp.com",
+  "icon": "https://atatapp.com/atat-logo-512.png"
+}
