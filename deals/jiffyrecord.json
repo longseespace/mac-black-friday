@@ -1,0 +1,12 @@
+{
+  "name": "JiffyRecord",
+  "url": "https://jiffyrecord.com/pricing",
+  "platforms": ["macOS"],
+  "category": "launch",
+  "discount": "Launch price $49",
+  "description": "Mac screen recorder and video editor: smooth cursor, auto zoom on clicks, a real timeline, on-device captions, and screenshots with annotations.",
+  "code": "BLACKFRIDAY",
+  "prices": [{ "plan": "Lifetime, 2 Macs", "before": 99, "after": 49 }],
+  "terms": "Code BLACKFRIDAY is added at checkout. One-time purchase for one person on two Macs. 7-day free trial, no card. 30-day money-back.",
+  "ends": "2026-12-01"
+}
