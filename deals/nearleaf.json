@@ -1,12 +1,21 @@
 {
   "name": "Nearleaf",
   "url": "https://nearleaf.page/faq",
-  "platforms": ["iOS", "iPadOS", "macOS"],
+  "platforms": [
+    "iOS",
+    "iPadOS",
+    "macOS"
+  ],
   "category": "launch",
-  "description": "A calm, simple note app with just one note: open it and type, or draw beside it. Free to download. Pro syncs it across devices, encrypted on your device first.",
+  "description": "One note, always ready: open it and start typing, or doodle on the page beside it. Pro syncs your note between your devices, encrypted before it leaves.",
   "discount": "Launch price $9.99 first year",
-  "prices": [{ "plan": "Pro yearly, first year", "after": 9.99 }],
-  "terms": "No code; shown in the iPhone and iPad app for new subscribers. Renews at $14.99 a year. Pro also works on the Mac app.",
+  "prices": [
+    {
+      "plan": "Pro yearly, first year",
+      "after": 9.99
+    }
+  ],
+  "terms": "No code needed: new subscribers see the sale right in the iPhone and iPad app. Renews at $14.99 a year, and Pro works in the Mac app too.",
   "starts": "2026-11-27",
   "ends": "2026-11-30",
   "maker": "Shreyansh Lodha",
