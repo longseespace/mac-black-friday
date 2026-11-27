@@ -1,0 +1,27 @@
+{
+  "name": "Exhibit",
+  "url": "https://chatexhibit.me",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "discount": "30% off",
+  "description": "Native macOS app that exports iMessage, WhatsApp, Signal and more to one court-ready PDF.",
+  "code": "EXHIBITBF30",
+  "prices": [
+    {
+      "plan": "Personal",
+      "before": 19.99,
+      "after": 13.99
+    },
+    {
+      "plan": "Firm",
+      "before": 59,
+      "after": 41.30
+    }
+  ],
+  "terms": "Enter EXHIBITBF30 at checkout. One-time purchase, no subscription. Sale ends 1 December 2026, 11:59 p.m. US Eastern.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "icon": "https://chatexhibit.me/apple-icon.png"
+}
