@@ -1,0 +1,24 @@
+{
+  "name": "Pawlitics",
+  "url": "https://pawlitics.sawirstudio.com/black-friday-2026/",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "games",
+  "description": "Cozy cartoon politics game: govern a town of animals, balance the budget, pass bills past the council and win re-election.",
+  "discount": "40% off Full Game",
+  "prices": [
+    {
+      "plan": "Full Game",
+      "before": 4.99,
+      "after": 2.99
+    }
+  ],
+  "terms": "The first term is free. The Full Game is a one-time unlock, price applied on the App Store, no code needed.",
+  "starts": "2026-11-26",
+  "ends": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/b0/c7/3fb0c74d-996c-bb32-3e4b-f2ae9a499d66/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "maker": "Sawir Studio",
+  "makerUrl": "https://sawirstudio.com"
+}
