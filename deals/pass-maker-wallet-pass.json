@@ -1,0 +1,14 @@
+{
+  "name": "Pass Maker - Wallet Pass",
+  "url": "https://apps.apple.com/us/app/pass-maker-wallet-pass/id6469374653",
+  "platforms": ["iOS", "iPadOS"],
+  "category": "utilities",
+  "description": "Create Apple Wallet passes: tickets, loyalty cards, coupons and boarding passes from a photo, a prompt, a template or a CSV guest list.",
+  "discount": "50% off Lifetime Pro",
+  "prices": [{ "plan": "Lifetime Pro", "before": 39.99, "after": 19.99 }],
+  "terms": "One-time purchase. The sale price shows in the app and on the App Store, no code needed. US prices; local prices vary.",
+  "starts": "2026-11-28",
+  "ends": "2026-12-06",
+  "maker": "Swapnanil Dhol",
+  "makerUrl": "https://x.com/swapnanildhol"
+}
