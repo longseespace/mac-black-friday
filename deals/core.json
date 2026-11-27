@@ -1,0 +1,23 @@
+{
+  "name": "Core: Interval & HIIT Timer",
+  "url": "https://foca.work/core.html",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "health",
+  "discount": "Lifetime $7.99",
+  "description": "An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout.",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 14.99,
+      "after": 7.99
+    }
+  ],
+  "terms": "Automatically applied; no code needed. US price; other regions may vary.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Foca Studio",
+  "makerUrl": "https://foca.work/",
+  "icon": "https://foca.work/images/icon-core.png"
+}
