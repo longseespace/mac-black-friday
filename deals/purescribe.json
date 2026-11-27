@@ -1,0 +1,25 @@
+{
+  "name": "PureScribe",
+  "url": "https://appsthere.com/black-friday#purescribe",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "description": "On-device speech to text for Mac and iPhone. Audio never leaves the device, no account, no subscription.",
+  "discount": "50% off",
+  "prices": [
+    {
+      "plan": "Pro (one-time)",
+      "before": 9.99,
+      "after": 4.99
+    }
+  ],
+  "terms": "One-time Pro in-app purchase, covers Mac, iPhone and iPad. Applied automatically in the App Store, no code.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Rija Ratinahirana (AppsThere)",
+  "makerUrl": "https://appsthere.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/c7/f4/abc7f463-8aa9-ec78-4662-e2c5edb6c1fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

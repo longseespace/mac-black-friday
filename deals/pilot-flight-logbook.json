@@ -1,0 +1,25 @@
+{
+  "name": "Pilot – Flight Logbook",
+  "url": "https://appsthere.com/black-friday#pilot",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "other",
+  "description": "Pilot logbook with EASA and FAA rules on the same flights. Night time is computed from the route. Works offline.",
+  "discount": "33% off",
+  "prices": [
+    {
+      "plan": "Pro (one-time)",
+      "before": 29.99,
+      "after": 19.99
+    }
+  ],
+  "terms": "One-time Pro in-app purchase, covers Mac, iPhone and iPad. Applied automatically in the App Store, no code.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Rija Ratinahirana (AppsThere)",
+  "makerUrl": "https://appsthere.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/ee/03/88ee0320-cf59-5604-2c28-a54f9d2f8c1c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
