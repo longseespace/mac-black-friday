@@ -1,0 +1,24 @@
+{
+  "name": "BabyAnalytic",
+  "url": "https://babyanalytic.com/black-friday-2026/",
+  "platforms": [
+    "iOS",
+    "watchOS"
+  ],
+  "category": "health",
+  "description": "Baby tracker: feeds, sleep and diapers in one tap, timers, charts, a pediatrician report and partner sharing through iCloud.",
+  "discount": "50% off Pro Lifetime",
+  "prices": [
+    {
+      "plan": "Pro Lifetime",
+      "before": 49.99,
+      "after": 24.99
+    }
+  ],
+  "terms": "Free download. Pro Lifetime is a one-time purchase, price applied on the App Store, no code needed.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/8b/c2/df8bc27f-3df4-77af-b4fc-11bd6a3c24db/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "maker": "Sawir Studio",
+  "makerUrl": "https://sawirstudio.com"
+}

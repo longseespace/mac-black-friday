@@ -1,0 +1,24 @@
+{
+  "name": "Math Daily",
+  "url": "https://getmathdaily.com/black-friday-2026/",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "education",
+  "description": "Daily mental math games: short rounds that keep arithmetic sharp, with streaks and progress.",
+  "discount": "50% off first year",
+  "prices": [
+    {
+      "plan": "Pro Yearly, first year",
+      "before": 29.99,
+      "after": 14.99
+    }
+  ],
+  "terms": "Free download. New subscribers only, the first year of Pro Yearly at half price. No code needed.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/07/1c/19071c31-9705-60e8-6b4d-85fd488b58f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "maker": "Sawir Studio",
+  "makerUrl": "https://sawirstudio.com"
+}

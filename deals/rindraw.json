@@ -1,0 +1,15 @@
+{
+  "name": "Rindraw",
+  "url": "https://rindraw.com/black-friday-2026/",
+  "platforms": ["iPadOS", "iOS", "macOS"],
+  "category": "design",
+  "description": "Drawing, painting and animation app. Strokes stay editable, and it opens .procreate and .psd files with their layers. 300+ brushes.",
+  "discount": "50% off",
+  "prices": [{ "plan": "One-time purchase", "before": 12.99, "after": 6.49 }],
+  "terms": "One purchase covers iPad, iPhone and Mac. No subscription. Price applied on the App Store, no code needed.",
+  "starts": "2026-11-23",
+  "ends": "2026-12-01",
+  "maker": "Sawir Studio",
+  "makerUrl": "https://rindraw.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/ed/30/0bed30d8-6398-7752-2eb0-1d40c5085280/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
