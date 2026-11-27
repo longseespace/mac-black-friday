@@ -1,0 +1,23 @@
+{
+  "name": "Ghost",
+  "url": "https://ghostformac.com/black-friday?ref=bf-boltai",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "ai",
+  "description": "Your Mac will never be the same: Ghost learns you from your own texts and mail, then takes over your Mac to do whole tasks and writes as you.",
+  "discount": "60% off the license",
+  "prices": [
+    {
+      "plan": "License",
+      "before": 249,
+      "after": 99
+    }
+  ],
+  "terms": "License $99 once, no code. Plus an AI plan from $19/mo per Mac. Download, set up and take the tour free before you pay. Payments are final.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Ghost",
+  "makerUrl": "https://ghostformac.com",
+  "icon": "https://ghostformac.com/icons/icon-512.png"
+}
