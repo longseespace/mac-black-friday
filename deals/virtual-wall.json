@@ -1,0 +1,22 @@
+{
+  "name": "Virtual Wall",
+  "url": "https://apps.apple.com/app/id1091429244",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "Keeps the pointer on the screen you are using and lets it cross to the other monitor only when you want.",
+  "discount": "50% off",
+  "prices": [
+    {
+      "plan": "App Store",
+      "before": 0.99,
+      "after": 0.49
+    }
+  ],
+  "terms": "One-time purchase on the App Store, no code needed. US price shown.",
+  "ends": "2026-12-01",
+  "starts": "2026-11-27",
+  "maker": "SOPONEXT",
+  "makerUrl": "https://soponext.com"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ouija Table",
+  "url": "https://apps.apple.com/app/id921379042",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "games",
+  "description": "An antique Ouija board for iPhone and iPad, with an inlaid walnut planchette. No ads.",
+  "discount": "70% off",
+  "prices": [
+    {
+      "plan": "App Store",
+      "before": 0.99,
+      "after": 0.29
+    }
+  ],
+  "terms": "One-time purchase on the App Store, no code needed. US price shown.",
+  "ends": "2026-12-01",
+  "starts": "2026-11-27",
+  "maker": "SOPONEXT",
+  "makerUrl": "https://soponext.com"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Resizable Calculator Pro",
+  "url": "https://apps.apple.com/app/id1421995280",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "utilities",
+  "description": "A calculator you resize by dragging its corner, from tiny to full screen.",
+  "discount": "50% off",
+  "prices": [
+    {
+      "plan": "App Store",
+      "before": 1.99,
+      "after": 0.99
+    }
+  ],
+  "terms": "One-time purchase on the App Store, no code needed. US price shown.",
+  "ends": "2026-12-01",
+  "starts": "2026-11-27",
+  "maker": "SOPONEXT",
+  "makerUrl": "https://soponext.com"
+}
