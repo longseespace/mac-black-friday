@@ -1,0 +1,26 @@
+{
+  "name": "Teleprompter AI",
+  "url": "https://teleprompter.so/promos/BLACKFRIDAY26",
+  "platforms": [
+    "iOS",
+    "iPadOS",
+    "macOS"
+  ],
+  "category": "audio-video",
+  "description": "Teleprompter that scrolls your script while you record with the camera, follows your voice and adds captions",
+  "discount": "35% off first year",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "Pro Yearly (first year)",
+      "before": 59.99,
+      "after": 38.99
+    }
+  ],
+  "terms": "App Store offer code for the yearly plan; the link opens the App Store with the code filled in. New and returning subscribers.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Fadel.io OU",
+  "makerUrl": "https://fadel.io",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/70/6e/99706e02-68e8-9a0b-b718-2fa1feb1635d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+}
