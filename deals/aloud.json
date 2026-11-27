@@ -1,0 +1,22 @@
+{
+  "name": "Aloud",
+  "url": "https://aloudapp.app/black-friday/",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "reading",
+  "discount": "30% off",
+  "description": "Native macOS app that reads selected text, PDFs, screenshots and web articles out loud, with on-device voices.",
+  "code": "BF30",
+  "prices": [
+    {
+      "plan": "Aloud",
+      "before": 19,
+      "after": 13.30
+    }
+  ],
+  "terms": "One-time purchase, no subscription. Enter BF30 at checkout, or use the buy button on the deal page, which applies it automatically.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "icon": "https://aloudapp.app/assets/icon-512.png"
+}
