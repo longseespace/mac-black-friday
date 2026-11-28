@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:21:41.624Z",
+  "updatedAt": "2026-11-28T02:32:38.983Z",
   "categories": [
     {
       "id": "ai",
@@ -221,6 +221,36 @@
       "makerUrl": "https://x.com/matteo_spada",
       "icon": "https://tryastro.app/icon.webp",
       "addedAt": "2026-11-23T10:00:18.000Z"
+    },
+    {
+      "id": "atat",
+      "name": "AtAt",
+      "url": "https://atatapp.com/black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "ai",
+      "description": "Call in your own AI anywhere on macOS with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation.",
+      "discount": "25% off Lifetime ($89)",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 119,
+          "after": 89
+        },
+        {
+          "plan": "Yearly (first year)",
+          "before": 59,
+          "after": 39
+        }
+      ],
+      "terms": "No code needed, applied automatically at checkout. Lifetime covers all your Macs and future updates; Yearly renews at $59/yr. 14-day free trial.",
+      "starts": "2026-11-24",
+      "ends": "2026-12-15",
+      "maker": "Xinyao Chen",
+      "makerUrl": "https://atatapp.com",
+      "icon": "https://atatapp.com/atat-logo-512.png",
+      "addedAt": "2026-11-28T02:32:31.000Z"
     },
     {
       "id": "audiobo",
