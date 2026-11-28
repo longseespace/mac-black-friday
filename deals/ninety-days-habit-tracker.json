@@ -1,0 +1,29 @@
+{
+  "name": "Ninety Days: Habit Tracker",
+  "url": "https://ninety-days.app/en/",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "discount": "Up to 60% off Premium",
+  "description": "Build better habits, earn milestone badges, explore statistics and automatically log habits via Apple Health with AutoLog. Optimized for iPhone Duo.",
+  "code": "BLACK90M / BLACK90Y",
+  "prices": [
+    {
+      "plan": "Monthly Premium",
+      "before": 4.99,
+      "after": 1.99
+    },
+    {
+      "plan": "Yearly Premium",
+      "before": 29.99,
+      "after": 14.99
+    }
+  ],
+  "terms": "BLACK90M: first 3 months (new/returning). BLACK90Y: first year (all eligible). Discounts vary by region. Auto-renews at regular price unless canceled.",
+  "starts": "2026-11-27",
+  "ends": "2026-11-30",
+  "makerUrl": "https://x.com/AndreasSteinX",
+  "icon": "https://ninety-days.app/pics/90DAYS_LOGO_3.9_B.png"
+}
