@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:06:37.370Z",
+  "updatedAt": "2026-11-28T02:12:28.967Z",
   "categories": [
     {
       "id": "ai",
@@ -4404,6 +4404,36 @@
       "makerUrl": "https://loshadki.app",
       "icon": "https://loshadki.app/images/renameninja.png",
       "addedAt": "2026-11-16T02:41:09.000Z"
+    },
+    {
+      "id": "rewritebar",
+      "name": "RewriteBar",
+      "url": "https://rewritebar.com/black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "writing",
+      "description": "AI writing assistant in the Mac menu bar. Fix grammar, rewrite, change tone and translate in any app with a shortcut, using your own API keys or local models.",
+      "discount": "50% off",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "Standard",
+          "before": 29,
+          "after": 14.5
+        },
+        {
+          "plan": "Pro",
+          "before": 59,
+          "after": 29.5
+        }
+      ],
+      "terms": "One-time license, no subscription. Code is applied automatically at checkout. Free trial available.",
+      "starts": "2026-11-02",
+      "ends": "2026-12-03",
+      "maker": "Mathias Michel",
+      "makerUrl": "https://rewritebar.com",
+      "addedAt": "2026-11-28T02:12:17.000Z"
     },
     {
       "id": "roads-audio",
