@@ -6,11 +6,11 @@
   ],
   "category": "ai",
   "description": "Call in your own AI anywhere on macOS with @@, plus built-in screenshots, scrolling capture, OCR, clipboard history, selection bar, and voice dictation.",
-  "discount": "47% off Lifetime ($89)",
+  "discount": "25% off Lifetime ($89)",
   "prices": [
     {
       "plan": "Lifetime",
-      "before": 169,
+      "before": 119,
       "after": 89
     },
     {
