@@ -2,8 +2,8 @@
   "name": "Rotara",
   "url": "https://getrotara.app/?ref=bfcm",
   "platforms": ["macOS"],
-  "category": "productivity",
-  "discount": "35% off, no code",
+  "category": "launch",
+  "discount": "Launch price $19",
   "description": "Per-project workspaces for Mac: each project keeps its own windows, switched with a pie menu at your cursor. 14-day free trial.",
   "prices": [
     { "plan": "Standard", "before": 29, "after": 19 },
