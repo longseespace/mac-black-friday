@@ -1,0 +1,23 @@
+{
+  "name": "XeOS: External Display Desktop",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6758286241&code=XEOSREDDIT",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "launch",
+  "discount": "Launch price $29.99",
+  "description": "Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any monitor, TV or projector.",
+  "code": "XEOSREDDIT",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "after": 29.99
+    }
+  ],
+  "terms": "Free download with 7-day trial; lifetime unlock is an in-app purchase. Redeem the App Store offer code.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "makerUrl": "https://desktopmodeiphone.com/",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/94/93/5b9493e1-6d60-258e-1f16-8bb80fcba345/Placeholder.mill/512x512bb.png"
+}
