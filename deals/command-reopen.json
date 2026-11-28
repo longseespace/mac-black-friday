@@ -1,0 +1,13 @@
+{
+  "name": "Command Reopen",
+  "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6757333924&code=BF2026",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "discount": "50% off Lifetime",
+  "description": "Makes native Cmd+Tab bring back minimized windows or open a new window when an app has none. No Accessibility permission needed.",
+  "code": "BF2026",
+  "prices": [{ "plan": "Lifetime", "before": 9.99, "after": 4.99 }],
+  "starts": "2026-11-27",
+  "ends": "2026-11-30",
+  "terms": "Mac App Store in-app purchase in ten selected regions. Expires Dec 1 at midnight Pacific time. USD prices shown."
+}
