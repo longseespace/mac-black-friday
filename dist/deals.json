@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:12:28.967Z",
+  "updatedAt": "2026-11-28T02:17:25.684Z",
   "categories": [
     {
       "id": "ai",
@@ -4517,6 +4517,32 @@
       "makerUrl": "https://roostmail.app",
       "icon": "https://roostmail.app/assets/brand/icon-512.png",
       "addedAt": "2026-11-21T14:25:00.000Z"
+    },
+    {
+      "id": "rotara",
+      "name": "Rotara",
+      "url": "https://getrotara.app/?ref=bfcm",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "discount": "Launch price $19",
+      "description": "Per-project workspaces for Mac: each project keeps its own windows, switched with a pie menu at your cursor. 14-day free trial.",
+      "prices": [
+        {
+          "plan": "Standard",
+          "before": 29,
+          "after": 19
+        },
+        {
+          "plan": "Lifetime",
+          "before": 49,
+          "after": 32
+        }
+      ],
+      "ends": "2026-12-15",
+      "terms": "One-time purchase. Early-bird pricing runs until Dec 31, 2026.",
+      "addedAt": "2026-11-28T02:17:17.000Z"
     },
     {
       "id": "rsstube",
