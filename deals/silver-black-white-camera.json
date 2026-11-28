@@ -1,0 +1,14 @@
+{
+  "name": "SILVER: Black & White Camera",
+  "url": "https://apps.apple.com/app/id6813106996?pt=128535281&ct=bf26-mac-black-friday",
+  "platforms": ["iOS", "iPadOS"],
+  "category": "design",
+  "description": "A black-and-white film camera with six free films and a private photo journal. No account, no ads, no subscription.",
+  "discount": "40% off SILVER Pro",
+  "prices": [{ "plan": "SILVER Pro (one-time)", "before": 4.99, "after": 2.99 }],
+  "terms": "Free download. SILVER Pro is a one-time in-app purchase, no code needed. US price; other countries vary.",
+  "ends": "2026-12-01",
+  "maker": "Sushil Kumar",
+  "makerUrl": "https://sushilkumar.me/silver",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/18/20/391820bd-84bd-06f9-26a4-7f2e654cf412/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+}

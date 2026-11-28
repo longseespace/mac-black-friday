@@ -1,0 +1,14 @@
+{
+  "name": "Fridge: Lock Screen Notes",
+  "url": "https://apps.apple.com/app/id6794317782?pt=128535281&ct=bf26-mac-black-friday",
+  "platforms": ["iOS"],
+  "category": "productivity",
+  "description": "Put a shopping list or to-do note on your iPhone Lock Screen and tick items off without unlocking. Share lists with family.",
+  "discount": "Lifetime $2.99",
+  "prices": [{ "plan": "Fridge Plus Lifetime", "after": 2.99 }],
+  "terms": "Free download. Fridge Plus Lifetime is a one-time in-app purchase, no code needed. iPhone, iOS 18+. US price; other countries vary.",
+  "ends": "2026-12-01",
+  "maker": "Sushil Kumar",
+  "makerUrl": "https://sushilkumar.me/projects/fridge",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/2b/49/e22b493f-38fc-2824-bec4-8d50d3ca448c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+}
