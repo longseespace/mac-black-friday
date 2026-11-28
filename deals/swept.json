@@ -1,0 +1,24 @@
+{
+  "name": "Swept",
+  "url": "https://pizazoo.com/swept/",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "design",
+  "description": "Clean up your iPhone camera roll by swiping: keep or delete photos one at a time, then find duplicates and the biggest videos. All on your device.",
+  "discount": "40% off",
+  "prices": [
+    {
+      "plan": "Swept Pro",
+      "before": 4.99,
+      "after": 2.99
+    }
+  ],
+  "terms": "One-time in-app purchase, no subscription. No code: the sale price shows in the app. US price; other countries follow.",
+  "starts": "2026-11-24",
+  "ends": "2026-12-01",
+  "maker": "Bazi",
+  "makerUrl": "https://pizazoo.com/swept/",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/a7/68/8da76867-0e32-6a3f-ec6e-0e6a077c06fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

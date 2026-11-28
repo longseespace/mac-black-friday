@@ -1,0 +1,36 @@
+{
+  "name": "Pizazoo",
+  "url": "https://pizazoo.com/pricing/",
+  "platforms": [
+    "macOS",
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "productivity",
+  "description": "Screenshot organizer for Mac, iPhone and iPad. Sorts screenshots into categories on your device and finds them by the text in them, with markup and redaction.",
+  "discount": "30% off",
+  "code": "BLACKFRIDAY30",
+  "prices": [
+    {
+      "plan": "Pro, 1 Mac",
+      "before": 15,
+      "after": 10.5
+    },
+    {
+      "plan": "Pro, 3 Macs",
+      "before": 25,
+      "after": 17.5
+    },
+    {
+      "plan": "Pro, 5 Macs",
+      "before": 35,
+      "after": 24.5
+    }
+  ],
+  "terms": "One-time purchase, no subscription; each plan includes iPhone and iPad. On the App Store, Pro is $9.99 instead of $14.99, no code.",
+  "starts": "2026-11-24",
+  "ends": "2026-12-01",
+  "maker": "Bazi",
+  "makerUrl": "https://pizazoo.com",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f1/f0/edf1f054-b780-a9e6-8ed8-ffebb2560a88/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
