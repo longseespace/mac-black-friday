@@ -1,0 +1,26 @@
+{
+  "name": "VidCap",
+  "url": "https://vidcap.app/promos/BLACKFRIDAY26",
+  "platforms": [
+    "iOS",
+    "iPadOS",
+    "macOS"
+  ],
+  "category": "audio-video",
+  "description": "Accurate automatic captions and subtitles for your videos in seconds, styled for TikTok, Reels and Shorts",
+  "discount": "35% off first year",
+  "code": "BLACKFRIDAY26",
+  "prices": [
+    {
+      "plan": "Pro Yearly (first year)",
+      "before": 59.99,
+      "after": 38.99
+    }
+  ],
+  "terms": "App Store offer code for the yearly plan; the link opens the App Store with the code filled in. New and returning subscribers.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Fadel.io OU",
+  "makerUrl": "https://fadel.io",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/3f/f5/2e3ff5b9-d4f3-4b8d-d0e3-d05486b237e1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+}
