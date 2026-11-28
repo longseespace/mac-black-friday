@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:20:26.463Z",
+  "updatedAt": "2026-11-28T02:20:52.399Z",
   "categories": [
     {
       "id": "ai",
@@ -1109,6 +1109,31 @@
       "addedAt": "2026-11-27T06:41:56.000Z"
     },
     {
+      "id": "core",
+      "name": "Core: Interval & HIIT Timer",
+      "url": "https://foca.work/core.html",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "health",
+      "discount": "Lifetime $7.99",
+      "description": "An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout.",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14.99,
+          "after": 7.99
+        }
+      ],
+      "terms": "Automatically applied; no code needed. US price; other regions may vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Foca Studio",
+      "makerUrl": "https://foca.work/",
+      "icon": "https://foca.work/images/icon-core.png",
+      "addedAt": "2026-11-28T02:20:43.000Z"
+    },
+    {
       "id": "cotypist",
       "name": "Cotypist",
       "url": "https://cotypist.app/blackfriday?utm_content=boltai",
@@ -1309,6 +1334,31 @@
       "makerUrl": "https://vektramind.com",
       "icon": "https://daydare.app/apple-touch-icon.png",
       "addedAt": "2026-11-25T23:14:18.000Z"
+    },
+    {
+      "id": "dayfold",
+      "name": "Dayfold",
+      "url": "https://foca.work/dayfold.html",
+      "platforms": [
+        "iOS"
+      ],
+      "category": "productivity",
+      "discount": "Lifetime $7.99",
+      "description": "Countdown and anniversary widgets for iPhone. Pin birthdays, trips and other moments as cards on your Home Screen and Lock Screen.",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14.99,
+          "after": 7.99
+        }
+      ],
+      "terms": "Automatically applied; no code needed. US price; other regions may vary.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Foca Studio",
+      "makerUrl": "https://foca.work/",
+      "icon": "https://foca.work/images/icon-dayfold.png",
+      "addedAt": "2026-11-28T02:20:43.000Z"
     },
     {
       "id": "deckloud",
@@ -2141,6 +2191,32 @@
       "makerUrl": "https://float.gilla.fun/",
       "icon": "https://float.gilla.fun/icon.png",
       "addedAt": "2026-11-18T17:12:18.000Z"
+    },
+    {
+      "id": "foca",
+      "name": "Foca",
+      "url": "https://foca.work/",
+      "platforms": [
+        "macOS",
+        "iOS"
+      ],
+      "category": "productivity",
+      "discount": "Lifetime $7.99",
+      "description": "A calm Pomodoro timer for iPhone and Mac, with ambient sounds for focus and guided stretch breaks.",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 14.99,
+          "after": 7.99
+        }
+      ],
+      "terms": "Automatically applied; no code needed. US price; other regions may vary. Foca for iPhone and Foca for Mac are separate Lifetime purchases.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Foca Studio",
+      "makerUrl": "https://foca.work/",
+      "icon": "https://foca.work/images/icon-foca.png",
+      "addedAt": "2026-11-28T02:20:43.000Z"
     },
     {
       "id": "focusito",
