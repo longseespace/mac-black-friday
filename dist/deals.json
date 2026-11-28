@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:33:17.357Z",
+  "updatedAt": "2026-11-28T02:33:36.218Z",
   "categories": [
     {
       "id": "ai",
@@ -5718,6 +5718,34 @@
       "addedAt": "2026-11-22T16:19:04.000Z"
     },
     {
+      "id": "spiik",
+      "name": "Spiik",
+      "url": "https://spiik.io/promos/BLACKFRIDAY26",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "category": "productivity",
+      "description": "AI voice recorder: transcribes meetings and lectures in 100+ languages, labels speakers, makes AI notes, summaries and flashcards",
+      "discount": "22% off first year",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Pro Yearly (first year)",
+          "before": 49.99,
+          "after": 38.99
+        }
+      ],
+      "terms": "App Store offer code for the yearly plan; the link opens the App Store with the code filled in. New and returning subscribers.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Fadel.io OU",
+      "makerUrl": "https://fadel.io",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/3f/d3/133fd3b4-0cce-683d-6a3a-355e4b8e92a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "addedAt": "2026-11-28T02:33:27.000Z"
+    },
+    {
       "id": "sponge",
       "name": "Sponge",
       "url": "https://sponge.computer/pricing",
@@ -6071,6 +6099,34 @@
       "starts": "2026-11-16",
       "terms": "BF2026; 2026-11-16 to 2026-12-03",
       "addedAt": "2026-11-09T13:21:05.000Z"
+    },
+    {
+      "id": "teleprompter-ai",
+      "name": "Teleprompter AI",
+      "url": "https://teleprompter.so/promos/BLACKFRIDAY26",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Teleprompter that scrolls your script while you record with the camera, follows your voice and adds captions",
+      "discount": "35% off first year",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Pro Yearly (first year)",
+          "before": 59.99,
+          "after": 38.99
+        }
+      ],
+      "terms": "App Store offer code for the yearly plan; the link opens the App Store with the code filled in. New and returning subscribers.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Fadel.io OU",
+      "makerUrl": "https://fadel.io",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/70/6e/99706e02-68e8-9a0b-b718-2fa1feb1635d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "addedAt": "2026-11-28T02:33:27.000Z"
     },
     {
       "id": "termalin",
@@ -6635,6 +6691,34 @@
       "maker": "Edward Luo",
       "makerUrl": "https://vibeisland.app",
       "addedAt": "2026-11-25T17:19:29.000Z"
+    },
+    {
+      "id": "vidcap",
+      "name": "VidCap",
+      "url": "https://vidcap.app/promos/BLACKFRIDAY26",
+      "platforms": [
+        "iOS",
+        "iPadOS",
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Accurate automatic captions and subtitles for your videos in seconds, styled for TikTok, Reels and Shorts",
+      "discount": "35% off first year",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "Pro Yearly (first year)",
+          "before": 59.99,
+          "after": 38.99
+        }
+      ],
+      "terms": "App Store offer code for the yearly plan; the link opens the App Store with the code filled in. New and returning subscribers.",
+      "starts": "2026-11-27",
+      "ends": "2026-12-01",
+      "maker": "Fadel.io OU",
+      "makerUrl": "https://fadel.io",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/3f/f5/2e3ff5b9-d4f3-4b8d-d0e3-d05486b237e1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "addedAt": "2026-11-28T02:33:27.000Z"
     },
     {
       "id": "voibe",
