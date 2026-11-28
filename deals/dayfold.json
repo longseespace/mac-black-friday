@@ -1,0 +1,23 @@
+{
+  "name": "Dayfold",
+  "url": "https://foca.work/dayfold.html",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "productivity",
+  "discount": "Lifetime $7.99",
+  "description": "Countdown and anniversary widgets for iPhone. Pin birthdays, trips and other moments as cards on your Home Screen and Lock Screen.",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 14.99,
+      "after": 7.99
+    }
+  ],
+  "terms": "Automatically applied; no code needed. US price; other regions may vary.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Foca Studio",
+  "makerUrl": "https://foca.work/",
+  "icon": "https://foca.work/images/icon-dayfold.png"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Foca",
+  "url": "https://foca.work/",
+  "platforms": [
+    "macOS",
+    "iOS"
+  ],
+  "category": "productivity",
+  "discount": "Lifetime $7.99",
+  "description": "A calm Pomodoro timer for iPhone and Mac, with ambient sounds for focus and guided stretch breaks.",
+  "prices": [
+    {
+      "plan": "Lifetime",
+      "before": 14.99,
+      "after": 7.99
+    }
+  ],
+  "terms": "Automatically applied; no code needed. US price; other regions may vary. Foca for iPhone and Foca for Mac are separate Lifetime purchases.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-01",
+  "maker": "Foca Studio",
+  "makerUrl": "https://foca.work/",
+  "icon": "https://foca.work/images/icon-foca.png"
+}
