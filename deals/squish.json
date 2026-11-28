@@ -1,0 +1,27 @@
+{
+  "name": "Squish",
+  "url": "https://apps.apple.com/app/apple-store/id6826825259?pt=129674688&ct=bf-boltai&mt=8",
+  "platforms": [
+    "iOS",
+    "iPadOS"
+  ],
+  "category": "launch",
+  "discount": "Launch price $2.99",
+  "description": "Shrinks PDFs, scans and photos on iPhone and iPad to the exact size an upload form asks for (2 MB, 500 KB or any number) and keeps them readable, on device.",
+  "prices": [
+    {
+      "plan": "Squish Pro (one-time in-app purchase)",
+      "after": 2.99
+    },
+    {
+      "plan": "Squish Pro Family (one-time in-app purchase)",
+      "after": 4.99
+    }
+  ],
+  "terms": "Released 19 Nov 2026. Back to $4.99 ($8.99 Family) on Dec 4. One-time purchase, free download with a 7-day trial, no code. US prices; local prices vary.",
+  "starts": "2026-11-26",
+  "ends": "2026-12-03",
+  "maker": "Yet Another Engineer",
+  "makerUrl": "https://yetanotherengineer.com/apps/squish/",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/81/cf/4381cffb-3e66-d461-888a-50dc409b55f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}
