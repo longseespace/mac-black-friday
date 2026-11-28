@@ -1,0 +1,15 @@
+{
+  "name": "Eagerness",
+  "url": "https://eagerness.ai/?ref=boltai",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "A private AI for conversations and writing that runs entirely on your Mac. Talk or type, make your own bots, write long. Works offline.",
+  "discount": "Launch price $69",
+  "terms": "Launched Nov 27, 2026. $69 once through Dec 2, then $99. No code. 7-day free trial, no account. Apple silicon, macOS 14+.",
+  "starts": "2026-11-27",
+  "ends": "2026-12-02",
+  "maker": "Worth A Try LLC",
+  "makerUrl": "https://eagerness.ai"
+}
