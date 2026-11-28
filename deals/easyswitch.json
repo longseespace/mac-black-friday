@@ -1,0 +1,17 @@
+{
+  "name": "EasySwitch",
+  "url": "https://easyswitch.realbrain.cc/pricing",
+  "platforms": ["macOS"],
+  "category": "utilities",
+  "description": "Software KVM: one keyboard and mouse across your Mac, Windows and Linux computers on the local network. Shared clipboard, file transfer, end-to-end encrypted.",
+  "discount": "34–51% off",
+  "prices": [
+    { "plan": "Essentials, 3 computers", "before": 29, "after": 19 },
+    { "plan": "Pro, 5 computers + second monitor", "before": 49, "after": 29 },
+    { "plan": "Studio, 10 computers", "before": 99, "after": 49 },
+    { "plan": "Business, 25 computers", "before": 179, "after": 99 }
+  ],
+  "terms": "Every plan at the price of the one below. No code needed, applied at checkout. One-time purchase. Free for two computers. Ends Nov 30, 23:59 UTC.",
+  "starts": "2026-11-27",
+  "ends": "2026-11-30"
+}
