@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T02:17:25.684Z",
+  "updatedAt": "2026-11-28T02:17:57.298Z",
   "categories": [
     {
       "id": "ai",
@@ -990,6 +990,29 @@
       "makerUrl": "https://comicweather.app",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/2e/05/ce2e05af-c444-746f-acc8-67b6368818f7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "addedAt": "2026-11-11T02:10:20.000Z"
+    },
+    {
+      "id": "command-reopen",
+      "name": "Command Reopen",
+      "url": "https://apps.apple.com/redeem?ctx=offercodes&id=6757333924&code=BF2026",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "discount": "50% off Lifetime",
+      "description": "Makes native Cmd+Tab bring back minimized windows or open a new window when an app has none. No Accessibility permission needed.",
+      "code": "BF2026",
+      "prices": [
+        {
+          "plan": "Lifetime",
+          "before": 9.99,
+          "after": 4.99
+        }
+      ],
+      "starts": "2026-11-27",
+      "ends": "2026-11-30",
+      "terms": "Mac App Store in-app purchase in ten selected regions. Expires Dec 1 at midnight Pacific time. USD prices shown.",
+      "addedAt": "2026-11-28T02:17:48.000Z"
     },
     {
       "id": "connectwizard",
