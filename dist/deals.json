@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:53:33.614Z",
+  "updatedAt": "2026-11-28T02:06:37.370Z",
   "categories": [
     {
       "id": "ai",
@@ -1032,7 +1032,7 @@
     {
       "id": "copypasta",
       "name": "CopyPasta",
-      "url": "https://usecopypasta.com/#pricing",
+      "url": "https://usecopypasta.com",
       "platforms": [
         "macOS"
       ],
