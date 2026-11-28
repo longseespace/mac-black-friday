@@ -1,0 +1,13 @@
+{
+  "name": "ANT - Advanced Network Toolkit",
+  "url": "https://www.anttoolkit.com/#pricing",
+  "platforms": ["macOS"],
+  "category": "launch",
+  "discount": "Launch price $34.30",
+  "description": "Native Mac app for network engineers and admins: VLAN switching, network scan, ping and traceroute in one place.",
+  "code": "BLACKFRIDAY26",
+  "prices": [{ "plan": "One-time, 2 Macs", "before": 49, "after": 34.3 }],
+  "terms": "One-time purchase, no subscription. Enter code BLACKFRIDAY26 at checkout. 3-day free trial.",
+  "ends": "2026-12-01",
+  "icon": "https://www.anttoolkit.com/apple-touch-icon.png"
+}
