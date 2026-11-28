@@ -1,0 +1,22 @@
+{
+  "name": "Back Pocket",
+  "url": "https://apps.apple.com/app/id6765919320",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "productivity",
+  "description": "Save TikToks, Reels and any link from the share sheet into pockets you pick. No account, no subscription, no AI sorting.",
+  "discount": "60% off lifetime Pro",
+  "prices": [
+    {
+      "plan": "Pro (one-time)",
+      "before": 4.99,
+      "after": 1.99
+    }
+  ],
+  "terms": "Free app with 40 saves; Pro is a one-time unlock (unlimited saves, iCloud sync, custom pockets, notes, reminders).",
+  "starts": "2026-11-30",
+  "ends": "2026-12-01",
+  "maker": "RottenTooth Labs",
+  "makerUrl": "https://rottentoothlabs.com"
+}
