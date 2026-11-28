@@ -1,0 +1,16 @@
+{
+  "name": "Pimosa",
+  "url": "https://pimosa.app",
+  "platforms": ["macOS"],
+  "category": "audio-video",
+  "discount": "40% off",
+  "description": "36 offline tools to convert, compress and edit video, audio, images, GIFs and PDFs, plus a built-in AI agent. One-time purchase.",
+  "code": "BLACKFRIDAY40",
+  "prices": [
+    { "plan": "Personal", "before": 29, "after": 17.4 },
+    { "plan": "Plus", "before": 49, "after": 29.4 }
+  ],
+  "starts": "2026-11-10",
+  "ends": "2026-11-30",
+  "icon": "https://pimosa.app/icon-192.png"
+}
