@@ -8,12 +8,12 @@
   ],
   "category": "productivity",
   "description": "AI voice recorder: transcribes meetings and lectures in 100+ languages, labels speakers, makes AI notes, summaries and flashcards",
-  "discount": "35% off first year",
+  "discount": "22% off first year",
   "code": "BLACKFRIDAY26",
   "prices": [
     {
       "plan": "Pro Yearly (first year)",
-      "before": 59.99,
+      "before": 49.99,
       "after": 38.99
     }
   ],
