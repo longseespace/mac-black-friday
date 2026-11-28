@@ -1,12 +1,16 @@
 {
   "name": "Briskmail",
-  "url": "https://briskmail.app/pricing/",
+  "url": "https://buy.polar.sh/polar_cl_UZLvTNmeg95ox3qb7qC0n9n6YIDblNsgcX4mO0nTSzW",
   "platforms": ["macOS"],
   "category": "launch",
   "discount": "Launch price $29",
-  "code": "BRISK29",
   "description": "A native Mac app for Gmail, built on the Gmail API, so labels, snooze and Send Later match the web. One-time purchase, no subscription.",
-  "prices": [{ "plan": "One-time purchase", "after": 29 }],
-  "terms": "Enter code BRISK29 at checkout.",
+  "prices": [
+    {
+      "plan": "One-time purchase",
+      "after": 29
+    }
+  ],
+  "terms": "The link applies code BRISK29 automatically.",
   "ends": "2026-12-01"
 }
