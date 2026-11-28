@@ -1,0 +1,22 @@
+{
+  "name": "intropi",
+  "url": "https://intropi.app/black-friday",
+  "platforms": [
+    "iOS"
+  ],
+  "category": "health",
+  "discount": "Premium Lifetime $89.99",
+  "description": "Guided self-hypnosis for sleep, focus, and habits. Pick a goal or explore 1,494 sessions, from daily resets to guided audio journeys.",
+  "prices": [
+    {
+      "plan": "Premium Lifetime",
+      "before": 189.99,
+      "after": 89.99
+    }
+  ],
+  "starts": "2026-11-25",
+  "ends": "2026-12-01",
+  "terms": "US iPhone App Store. One-time purchase. Open the menu, choose Go Premium, then Lifetime. No code.",
+  "makerUrl": "https://intropi.app",
+  "icon": "https://intropi.app/assets/img/intropi-app-icon-512.png"
+}
